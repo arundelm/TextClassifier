@@ -6,9 +6,15 @@ The main goal of this project is to build a text classifier that processes sente
 
 ## Key Features
 Bag of Words Model: The classifier tokenizes the input text and removes duplicates to analyze word frequency and associations.
+
 Log Prior and Log Likelihood: Uses these statistical methods to compute the probability of a sentence belonging to a specific label.
+
 Financial Dataset: Uses labeled financial data for training and testing. The classifier is trained to recognize sentences **related to:**
+
 -Stocks: Sentences related to stock market activity.
+
 -Cryptocurrency: Sentences related to cryptocurrency trends and news.
+
 -Commodities: Sentences related to commodity prices and supply.
+
 -Global Markets: Sentences about global market conditions and economic events.
