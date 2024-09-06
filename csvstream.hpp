@@ -1,4 +1,3 @@
-/* -*- mode: c++ -*- */
 #ifndef CSVSTREAM_HPP
 #define CSVSTREAM_HPP
 
@@ -13,7 +12,7 @@
 #include <exception>
 
 
-// A custom exception type
+
 class csvstream_exception : public std::exception {
 public:
   const char * what () const noexcept override {

@@ -4,7 +4,7 @@
 #include <cmath>
 
 using namespace std;
-// 124,331,703,730
+
 class Classifier
 {
 public:
