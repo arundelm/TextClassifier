@@ -11,10 +11,10 @@ Log Prior and Log Likelihood: Uses these statistical methods to compute the prob
 
 Financial Dataset: Uses labeled financial data for training and testing. The classifier is trained to recognize sentences **related to:**
 
--Stocks: Sentences related to stock market activity.
+  -Stocks: Sentences related to stock market activity.
 
--Cryptocurrency: Sentences related to cryptocurrency trends and news.
+  -Cryptocurrency: Sentences related to cryptocurrency trends and news.
 
--Commodities: Sentences related to commodity prices and supply.
+  -Commodities: Sentences related to commodity prices and supply.
 
--Global Markets: Sentences about global market conditions and economic events.
+  -Global Markets: Sentences about global market conditions and economic events.
