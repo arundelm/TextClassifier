@@ -2,8 +2,8 @@
 This project is a Machine Learning (ML) and Natural Language Processing (NLP) model that uses a Bag of Words approach to classify financial statements. It achieves 90% accuracy by analyzing the content of financial datasets and determining the subject of each sentence.
 
 ## Project Overview
-The main goal of this project is to build a text classifier that processes sentences about financial markets and predicts which aspect of the market the sentence pertains to. The project reads datasets containing tagged financial statements, analyzes the text using a Bag of Words model, and then classifies new sentences based on their content.
-
+The main goal of this project is to build a text classifier that processes sentences about financial markets and predicts which aspect of the market the sentence pertains to. The project reads datasets containing tagged financial statements, analyzes the text using a Bag of Words model, and then classifies new sentences based on their content. The **market_testing.csv** contains the testing data for the model, the **market_training.csv** contains the data that this specific example was trained on, and the **market.txt** contains the code output, showcasing the log-prior, log-likelihood, and overall model accuracy (2226/2500 approx 90%).
+ 
 ## Key Features
 Bag of Words Model: The classifier tokenizes the input text and removes duplicates to analyze word frequency and associations.
 
